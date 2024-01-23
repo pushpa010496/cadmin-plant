@@ -1,0 +1,333 @@
+[22-Feb-2023 06:48:51 UTC] PHP Fatal error:  Out of memory (allocated 1751158784) (tried to allocate 20480 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 186
+[22-Feb-2023 06:49:00 UTC] PHP Fatal error:  Out of memory (allocated 1746964480) (tried to allocate 4096 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 392
+[22-Feb-2023 06:49:07 UTC] PHP Fatal error:  Out of memory (allocated 1749061632) (tried to allocate 20480 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 186
+[22-Feb-2023 06:49:11 UTC] PHP Fatal error:  Out of memory (allocated 1723891712) (tried to allocate 26376768 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Feb-2023 06:49:28 UTC] PHP Fatal error:  Out of memory (allocated 1757450240) (tried to allocate 20480 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 186
+[22-Feb-2023 07:13:41 UTC] PHP Fatal error:  Out of memory (allocated 1753255936) (tried to allocate 20480 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 186
+[22-Feb-2023 07:13:44 UTC] PHP Fatal error:  Out of memory (allocated 1751158784) (tried to allocate 20480 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 186
+[22-Feb-2023 07:13:47 UTC] PHP Fatal error:  Out of memory (allocated 1751158784) (tried to allocate 20480 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 186
+[22-Feb-2023 07:13:49 UTC] PHP Fatal error:  Out of memory (allocated 1755353088) (tried to allocate 20480 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 186
+[22-Feb-2023 07:13:51 UTC] PHP Fatal error:  Out of memory (allocated 1757450240) (tried to allocate 20480 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 186
+[22-Feb-2023 07:29:59 UTC] PHP Fatal error:  Out of memory (allocated 1749032960) (tried to allocate 5592960 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Feb-2023 07:30:04 UTC] PHP Fatal error:  Out of memory (allocated 1746935808) (tried to allocate 5592960 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Feb-2023 07:30:09 UTC] PHP Fatal error:  Out of memory (allocated 1746935808) (tried to allocate 5592960 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Feb-2023 07:30:15 UTC] PHP Fatal error:  Out of memory (allocated 1740644352) (tried to allocate 5592960 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Feb-2023 07:30:22 UTC] PHP Fatal error:  Out of memory (allocated 1744838656) (tried to allocate 5592960 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Feb-2023 07:30:26 UTC] PHP Fatal error:  Out of memory (allocated 1528832000) (tried to allocate 5592960 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Feb-2023 07:30:29 UTC] PHP Fatal error:  Out of memory (allocated 1310728192) (tried to allocate 5592960 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Feb-2023 07:30:33 UTC] PHP Fatal error:  Out of memory (allocated 1692409856) (tried to allocate 5592960 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Feb-2023 07:30:47 UTC] PHP Fatal error:  Out of memory (allocated 1746935808) (tried to allocate 5592960 bytes) in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[19-Apr-2023 04:40:36 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[19-Apr-2023 04:40:36 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[19-Apr-2023 04:40:36 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[19-Apr-2023 04:40:36 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[19-Apr-2023 04:40:36 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:44 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:44 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 01:01:44 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:44 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 01:01:44 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:45 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:45 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 01:01:45 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:45 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 01:01:45 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:50 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:50 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 01:01:50 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:50 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 01:01:50 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:51 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:51 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 01:01:51 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 01:01:51 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 01:01:51 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 02:09:27 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 02:09:27 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 02:09:27 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 02:09:27 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 02:09:27 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 02:09:28 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 02:09:28 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 02:09:28 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 02:09:28 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 02:09:28 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:17 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:17 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:17 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:17 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:17 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:18 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:18 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:18 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:18 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:18 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:22 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:22 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:22 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:22 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:22 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:23 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:23 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:23 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:23 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:23 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:51 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:51 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:51 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:51 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:51 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:55 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:55 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:55 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 03:59:55 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 03:59:55 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 04:24:00 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 04:24:00 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 04:24:00 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 04:24:00 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 04:24:00 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 04:36:00 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 04:36:00 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 04:36:00 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[12-Jul-2023 04:36:00 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 927
+[12-Jul-2023 04:36:00 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php:853
+Stack trace:
+#0 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(853): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Method Reflecti...', '/home/plantauto...', 853)
+#1 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(816): Illuminate\Container\Container->resolveDependencies(Array)
+#2 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#3 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#7 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#12 {main}
+  thrown in /home/plantautomationt/public_html/cadmin/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 853
+[21-Sep-2023 02:20:46 UTC] PHP Warning:  require_once(/home/plantautomationt/public_html/cadmin/public/index.php): failed to open stream: No such file or directory in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[21-Sep-2023 02:20:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/plantautomationt/public_html/cadmin/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[23-Sep-2023 16:21:54 UTC] PHP Warning:  require_once(/home/plantautomationt/public_html/cadmin/public/index.php): failed to open stream: No such file or directory in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[23-Sep-2023 16:21:54 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/plantautomationt/public_html/cadmin/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[28-Oct-2023 00:15:32 UTC] PHP Warning:  require_once(/home/plantautomationt/public_html/cadmin/public/index.php): failed to open stream: No such file or directory in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[28-Oct-2023 00:15:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/plantautomationt/public_html/cadmin/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[29-Oct-2023 21:10:04 UTC] PHP Warning:  require_once(/home/plantautomationt/public_html/cadmin/public/index.php): failed to open stream: No such file or directory in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[29-Oct-2023 21:10:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/plantautomationt/public_html/cadmin/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[04-Nov-2023 00:04:56 UTC] PHP Warning:  require_once(/home/plantautomationt/public_html/cadmin/public/index.php): failed to open stream: No such file or directory in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[04-Nov-2023 00:04:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/plantautomationt/public_html/cadmin/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[04-Nov-2023 05:16:08 UTC] PHP Warning:  require_once(/home/plantautomationt/public_html/cadmin/public/index.php): failed to open stream: No such file or directory in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[04-Nov-2023 05:16:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/plantautomationt/public_html/cadmin/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[22-Nov-2023 17:53:31 UTC] PHP Warning:  require_once(/home/plantautomationt/public_html/cadmin/public/index.php): failed to open stream: No such file or directory in /home/plantautomationt/public_html/cadmin/server.php on line 21
+[22-Nov-2023 17:53:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/plantautomationt/public_html/cadmin/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/plantautomationt/public_html/cadmin/server.php on line 21

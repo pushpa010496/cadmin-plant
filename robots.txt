@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow:  /list-reports
+Disallow:  /listnews
+Disallow:  /listpressreleases
+Disallow:  /listenewsletters
+Disallow:  /newswires
+Disallow:  /viewprnewswire
+Disallow:  /prnews
+Disallow:  /viewbussinesswire
+Disallow:  /bwnews
+Disallow:  /viewglobalnewswire
+Disallow:  /newsvoir
+Disallow:  /viewglobal-reports
+Disallow:  /global-reports
+Disallow:  /events/month/
+Disallow:  /slider 
+Disallow:  /gwnews
+Disallow:  /banner
+Disallow:  /track-featured
+Disallow:  /edm
+Disallow:  /testproducts
+
+Sitemap:  https://www.plantautomation-technology.com/sitemap.xml

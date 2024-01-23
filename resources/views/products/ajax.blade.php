@@ -1,0 +1,2 @@
+{!! Form::label('subcategory_id', 'Sub Category:') !!}
+{!! Form::select('subcategory_id',$category,@$product->subcategory_id,['class'=>'form-control','required'=>'required', 'placeholder'=>'Select Sub Category']) !!}

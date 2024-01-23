@@ -1,0 +1,115 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
+
+
+# secure htaccess file
+<Files .htaccess>
+ order allow,deny
+ deny from all
+</Files>
+
+<Files index.php>
+   Order deny,allow
+   Deny from all
+   Allow from 127.0.0.1
+   Allow from 43.242.212.47  
+   Allow from 43.242.212.141
+
+   Allow from 183.82.0.18
+   
+   Allow from 183.82.112.13   
+   Allow from 115.119.69.52
+   Allow from 115.119.69.53
+   Allow from 115.119.69.54
+   Allow from 115.119.69.55
+   Allow from 115.119.69.56
+   Allow from 115.119.69.59
+   Allow from 115.119.69.60
+   Allow from 115.119.69.61
+   Allow from 115.119.69.62
+  
+   
+   Allow from 1.23.243.146
+   Allow from 1.23.243.147
+   Allow from 1.23.243.148
+   Allow from 1.23.243.149
+   Allow from 1.23.243.150
+
+   Allow from 192.168.12.47
+   Allow from 192.168.12.60
+   Allow from 192.168.12.61
+   Allow from 192.168.12.62
+   Allow from 192.168.12.63
+   Allow from 192.168.12.64
+   Allow from 192.168.12.65
+   Allow from 192.168.12.66
+   Allow from 192.168.12.67
+   Allow from 192.168.12.68
+   Allow from 192.168.12.141
+   Allow from 192.168.12.140
+   Allow from 192.168.12.139
+   Allow from 192.168.12.138
+
+   Allow from 183.82.0.18
+Allow from 183.82.112.13  
+
+Allow from 1.23.243.194
+Allow from 1.23.243.195
+Allow from 1.23.243.196
+Allow from 1.23.243.197
+Allow from 1.23.243.198
+Allow from 1.23.243.199
+Allow from 1.23.243.200
+Allow from 1.23.243.201
+Allow from 1.23.243.202
+Allow from 1.23.243.203
+Allow from 1.23.243.204
+Allow from 1.23.243.205
+Allow from 1.23.243.206
+Allow from 1.23.243.207
+Allow from 1.23.243.208
+</Files>
+
+
+# secure directory by disabling script execution
+AddHandler cgi-script .pl .py .jsp .asp .htm .shtml .sh .cgi
+Options -ExecCGI
+
+
+<FilesMatch "\.(htaccess|htpasswd|ini|phps|fla|psd|log|sh)$">
+ Order Allow,Deny
+ Deny from all
+</FilesMatch>
+
+
+# ensure CHMOD settings for specified file types
+# remember to never set CHMOD 777 unless you know what you are doing
+# files requiring write access should use CHMOD 766 rather than 777
+# keep specific file types private by setting their CHMOD to 400
+#chmod .htpasswd files 640
+#chmod .htaccess files 644
+#chmod php files 600
+
+Options All -Indexes
+
+# prevent folder listing
+IndexIgnore *
